@@ -7,9 +7,9 @@ instanceOfVideojs.addMenu({
     action1:'action1()',
     action2:'action2()',
     action3:'action3()',
-    nameOfButton1:"Action1",
-    nameOfButton2:"Action2",
-    nameOfButton3:"Action3"
+    nameOfButton1:"Record",
+    nameOfButton2:"Attach PDF",
+    nameOfButton3:"Take Note"
 
 }
 );
